@@ -3,7 +3,7 @@ Problématiques :
 
 1 - Analyser le comportement d’un vol en particulier chaque jeudi et vérifier si on peut comprendre les données de ce vol pour analyser ses éventuels retards ou l’impact du confinement sur ce vol.
 
-2-Extrait de tous les vols avec FL ==0 tous les jeudi (pour être sûr d’avoir à chaque fois les mêmes vols). Analyse des paternes, peut- on prédire le décollage et l'atterrissage avec ces données ? Les retards ? l’impact du confinement ? … etc. 
+2 - Extrait de tous les vols avec FL ==0 tous les jeudi (pour être sûr d’avoir à chaque fois les mêmes vols). Analyse des paternes, peut- on prédire le décollage et l'atterrissage avec ces données ? Les retards ? l’impact du confinement ? … etc. 
 
 DATASET : 
 
